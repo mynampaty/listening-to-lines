@@ -34,4 +34,4 @@ but, because, since the start, dad was always on their side.
 _by Ravi Mynampaty_  
 November 2022
 
-<img src="/assets/images/starlight3.jpeg" alt="Navigating a ship by starlight" title="Navigating a ship by starlight">
+<img src="assets/images/starlight3.jpeg" alt="Navigating a ship by starlight" title="Navigating a ship by starlight">
