@@ -38,4 +38,4 @@ one day meeting the person you could have been.
 
 _February 2023_
 
-<img src="/assets/images/hell2.jpeg" alt="Hell as a waiting room" title="Waiting Room">
+![Hell as a waiting room.](assets/images/hell2.jpeg)
