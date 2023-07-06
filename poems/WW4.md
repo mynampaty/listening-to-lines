@@ -55,5 +55,7 @@ Let’s “Occupy Mars!”
 Alas, in that lifetime,  
 It did not come to pass.  
 
-_by Ravi Mynampaty_
+_by Ravi Mynampaty_  
 September 2022
+
+![Image of sticks and stones.](assets/images/stones1.jpeg)
