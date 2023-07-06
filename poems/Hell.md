@@ -36,7 +36,7 @@ What is hell? It’s been said:
 Hell is the person you are, comfortable in your skin,  
 one day meeting the person you could have been.  
 
-_-Ravi Mynampaty_  
-_February 2023_
+_by Ravi Mynampaty_  
+February 2023
 
 ![Hell as a waiting room.](assets/images/hell2.jpeg)
