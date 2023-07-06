@@ -15,7 +15,7 @@ It was a misfire, what a relief!
 Merely tracked, retaliation spurned,  
 No one was hurt, it beggars belief.   
 
-Once a man used his veto,  
+A man once used his veto,  
 He was aptly named Stanislav,  
 We didn’t deserve this hero,  
 But he’s one we’re glad to have.  
