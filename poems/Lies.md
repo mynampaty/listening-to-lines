@@ -22,6 +22,7 @@ Sh:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Earnest honesty lights hopeful sparks.**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Simple action: Reject “harmless” untruths.**  
 
-_March 2023_  
+_by Ravi Mynampaty_  
+March 2023  
 
 ![Abstract image of Solzhenitsyn debating a sheep.](assets/images/sheep1.jpeg)
