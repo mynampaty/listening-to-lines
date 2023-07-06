@@ -4,6 +4,6 @@ Prompt engineering for creating images also by yours truly.
   
 Images by generative AI, currently DALL-E via Bing.
 
-Click on the .md files to browse thru' this collection. 
+Look in the "poems" folder for the .md files to browse thru' this collection. 
 
 Edit suggestions? Issue a pull request.
