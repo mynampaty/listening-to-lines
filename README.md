@@ -1,4 +1,4 @@
-Poems by a human intelligence, i.e., yours truly.
+[Poems](https://github.com/mynampaty/listening-to-lines/tree/main/poems) by a human intelligence, i.e., yours truly.
 
 Prompt engineering for creating images also by yours truly.
   
