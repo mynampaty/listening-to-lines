@@ -58,4 +58,4 @@ It did not come to pass.
 _by Ravi Mynampaty_  
 September 2022
 
-![Image of sticks and stones.](assets/images/stones1.jpeg)
+![Image of sticks and stones.](assets/images/stones8.jpeg)
