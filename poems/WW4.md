@@ -42,11 +42,11 @@ By attacking the Sea of Japan?
 
 Was it a minor border skirmish  
  In the old Raj, which made  
-A General decide to finish,   
+A General decide to finish   
 His decades-long crusade?  
 
 Maybe it was wannabe-Peter-  
-The great, who pushed the button,  
+The-great, who pushed the button,  
 Because he found defeat a bitter  
 Pill, and took a step so wanton.   
 
@@ -58,4 +58,4 @@ It did not come to pass.
 _by Ravi Mynampaty_  
 September 2022
 
-![Image of sticks and stones.](assets/images/stones1.jpeg)
+![Image of sticks and stones.](assets/images/stones8.jpeg)
