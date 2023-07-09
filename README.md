@@ -1,3 +1,5 @@
+<img src="/assets/images/listen1.jpeg" alt="Listen" title="Listen Carefully">
+
 Poems composed by a human intelligence, i.e., yours truly.
 
 Prompt engineering for creating images also by yours truly.
