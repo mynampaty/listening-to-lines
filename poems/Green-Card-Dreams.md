@@ -42,4 +42,4 @@ Sans green card, alas.
 _by Ravi Mynampaty_  
 October 2022  
 
-<img src="poems/assets/images/gc1.jpeg" alt="Shattered Green Card DReams" title="Shattered Green Card DReams">  
+<img src="../poems/assets/images/gc1.jpeg" alt="Shattered Green Card DReams" title="Shattered Green Card DReams">  
