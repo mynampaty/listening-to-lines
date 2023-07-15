@@ -38,4 +38,4 @@ next to my bicycle.
 _by Ravi Mynampaty_  
 February 2023
 
-<img src="/assets/images/ev1.jpeg" alt="Cartoon Electric Car" title="Cartoon Electric Car"">
+<img src="../poems/assets/images/ev1.jpeg" alt="Cartoon Electric Car" title="Cartoon Electric Car">
