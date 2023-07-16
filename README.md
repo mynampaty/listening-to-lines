@@ -10,6 +10,7 @@ Images by generative AI, currently DALL-E via Bing, unless otherwise noted.
 
 Enjoy these poems. 
 
+- [GitHub Poetry](https://github.com/mynampaty/listening-to-lines/tree/main/poems/GitHub-Poetry.md)
 - [Green Card Dreams](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Green-Card-Dreams.md)
 - [Hell](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Hell.md)
 - [Ode to my EV](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Ode-to-my-EV.md)
