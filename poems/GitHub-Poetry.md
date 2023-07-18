@@ -1,7 +1,7 @@
 # GitHub Poetry  
 
 Gimmicky and geeky,&nbsp;&nbsp;&nbsp;&nbsp;GitHub poetry,   
-It’s a tactical trick&nbsp;&nbsp;&nbsp;&nbsp;to tweak virality.  
+It’s a tactical trick&nbsp;&nbsp;&nbsp;&nbsp;to trigger virality.  
 
 _by Ravi Mynampaty_  
 July 2023  
