@@ -13,6 +13,7 @@ Enjoy these poems.
 - [GitHub Poetry](https://github.com/mynampaty/listening-to-lines/tree/main/poems/GitHub-Poetry.md)
 - [Green Card Dreams](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Green-Card-Dreams.md)
 - [Hell](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Hell.md)
+- [I'm on Fire](https://github.com/mynampaty/listening-to-lines/tree/main/poems/I'm-on-Fire.md)
 - [Ode to my EV](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Ode-to-my-EV.md)
 - [Sheep vs. Solzhenitsyn](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Lies.md)  
 - [WW4](https://github.com/mynampaty/listening-to-lines/blob/main/poems/WW4.md)  
