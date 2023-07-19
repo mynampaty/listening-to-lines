@@ -9,4 +9,4 @@ My soul would no longer be on fire
 _by Ravi Mynampaty_  
 July 2023  
 
-<img src="../poems/assets/images/fire5.jpeg" alt="Soul on fire" title="Soul on fire">
+<img src="../poems/assets/images/fire1.jpeg" alt="Soul on fire" title="Soul on fire">
