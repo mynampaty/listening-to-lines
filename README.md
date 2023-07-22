@@ -15,6 +15,7 @@ Enjoy these poems.
 - [Hell](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Hell.md)
 - [How to Write a Great Poem](https://github.com/mynampaty/listening-to-lines/tree/main/poems/How-to-Write-a-Great-Poem.md)
 - [I'm on Fire](https://github.com/mynampaty/listening-to-lines/tree/main/poems/I'm-on-Fire.md)
+- [Lord of Dance](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Lord-of-Dance.md)
 - [Ode to my EV](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Ode-to-my-EV.md)
 - [Sheep vs. Solzhenitsyn](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Lies.md)  
 - [World-destroying Time](https://github.com/mynampaty/listening-to-lines/blob/main/poems/World-destroying-Time.md)
