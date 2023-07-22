@@ -47,4 +47,4 @@ Now I don’t see any more.
 _by Ravi Mynampaty_  
 February 2023  
 
-<img src="assets/images/balloon.jpeg" alt="Spy Balloon" title="Spy Balloon">
+<img src="assets/images/balloon1.jpeg" alt="Spy Balloon" title="Spy Balloon">
