@@ -6,7 +6,7 @@ Poems composed by a human intelligence, i.e., yours truly.
 
 Prompt engineering for creating images also by yours truly.
   
-Images by generative AI, currently DALL-E via Bing, unless otherwise noted.
+Images by generative AI (Grok and DALL-E via Bing), unless otherwise noted.
 
 Enjoy these poems. 
 
