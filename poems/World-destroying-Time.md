@@ -1,4 +1,4 @@
-# World-destroying Time  
+# Time, the Destroyer of Worlds    
 
 Grieve not, great hero,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;give away your doubt.  
 Wise men lament not the living&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nor the lifeless.   
