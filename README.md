@@ -22,6 +22,7 @@ Enjoy these poems.
 - [Jaded Critic Goes to the Movies](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Movies.md) 
 - [Lord of Dance](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Lord-of-Dance.md)
 - [Love Letter to a Long-haired Dunkin Donuts Supermodel](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Love-Letter-to-a-Dunkin-Donuts-Supermodel.md)
+- [Madman’s Siren Song](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Madmans-Siren-Song.md)
 - [Memory](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Memory.md)  
 - [Ode to my EV](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Ode-to-my-EV.md)
 - [Random Walk with a Girl Who Has the Same Name as My Mom](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Random-Walk-with-a-Girl-Who-Has-the-Same-Name-as-My-Mom.md)
