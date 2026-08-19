@@ -58,4 +58,6 @@ I remain your last and greatest love.
 
 
 _by Ravi Mynampaty_  
-August 2026
+August 2026 
+
+<img src="../poems/assets/images/siren1.jpeg" alt="siren song" title="A siren song">  
