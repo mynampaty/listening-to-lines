@@ -2,7 +2,7 @@
 _Inspired by Irshad Kamil's original Urdu-Hindi_
 
 I am your last and greatest love.  
-One day when I have vanished.   
+One day when I have vanished    
 You’ll find love to be elusive,  
 A love that’s just beyond the horizon.  
 
