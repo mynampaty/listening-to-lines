@@ -33,7 +33,7 @@ Or will you see me as in a mirage?
 
 When the mirror reflects you all alone,  
 You’ll see I was unique and resplendent.  
-I was dazzling, and that was no mirage.  
+I was dazzling--that was no mirage.  
 You’ll wish I were tied to the mast by you.  
 
 You know I’m unique, I’m resplendent.  
