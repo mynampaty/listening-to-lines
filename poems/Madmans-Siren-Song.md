@@ -41,7 +41,7 @@ So let’s weave the final verse of our epic,
 because I am lashed to your mast right now.  
 This epic of you and me, it’s spellbinding,  
 
-After its final verse is woven into the fabric,  
+After its final verse is woven into our fabric,  
 It’ll be a song of all we love, all we sacrificed.  
 Our epic, which is so spellbinding,  
 You’ll realize it as we chase the escaping sun.  
