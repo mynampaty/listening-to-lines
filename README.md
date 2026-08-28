@@ -26,6 +26,7 @@ Enjoy these poems.
 - [Memory](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Memory.md)  
 - [Ode to my EV](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Ode-to-my-EV.md)
 - [Random Walk with a Girl Who Has the Same Name as My Mom](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Random-Walk-with-a-Girl-Who-Has-the-Same-Name-as-My-Mom.md)
+- [Secrets of a Suburban Rat](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Secrets-of-a-Suburban-rat.md)
 - [Sheep vs. Solzhenitsyn](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Lies.md)
 - [Summer](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Summer.md)
 - [Time, the Destroyer of Worlds](https://github.com/mynampaty/listening-to-lines/blob/main/poems/World-destroying-Time.md)
