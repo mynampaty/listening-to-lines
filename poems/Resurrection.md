@@ -9,14 +9,14 @@ Shooting selfies, indulging in matters profane.
 Having surrendered to an explosive rain,  
 Mere traces of a physical form remain.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As sandstone chunks,  
-        The Buddha lives.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Buddha lives.  
 
 Revivified by concerns mundane   
-as a 5-dollar fee needed to sustain.    
-    A barbaric regime which still flogs its drunks,  
-    The entry exam to modernity it eminently flunks.  
+as a 5-dollar fee needed to sustain     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A barbaric regime which still flogs its drunks,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The entry exam to modernity it eminently flunks.  
 Present only as a memory, still a subject of disdain,  
-        The Buddha lives.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Buddha lives.  
 
 _-Ravi Mynampaty_  
-August 2026  
+September 2026  
