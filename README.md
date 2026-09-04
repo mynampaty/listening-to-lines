@@ -10,6 +10,7 @@ Images by generative AI (Grok, Bing), unless otherwise noted.
 
 Enjoy these poems. 
 
+- [Blueprint of an Engineer as a Young Man at Heart](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Blueprint-of-an-Engineer-as-a-Young-Man-at-Heart.md)  
 - [GitHub Poetry](https://github.com/mynampaty/listening-to-lines/tree/main/poems/GitHub-Poetry.md)
 - [Green Card Dreams](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Green-Card-Dreams.md)
 - [Hell](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Hell.md)
