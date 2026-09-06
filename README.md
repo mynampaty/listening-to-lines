@@ -26,6 +26,7 @@ Enjoy these poems.
 - [Madman’s Siren Song](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Madmans-Siren-Song.md)
 - [Memory](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Memory.md)  
 - [Ode to my EV](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Ode-to-my-EV.md)
+- [Ode to Soren](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Ode-to-Soren.md)
 - [Random Walk with a Girl Who Has the Same Name as My Mom](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Random-Walk-with-a-Girl-Who-Has-the-Same-Name-as-My-Mom.md)
 - [Resurrection](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Resurrection.md)
 - [Secrets of a Suburban Rat](https://github.com/mynampaty/listening-to-lines/blob/main/poems/Secrets-of-a-Suburban-Rat.md)
