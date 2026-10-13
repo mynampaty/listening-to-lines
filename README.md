@@ -10,6 +10,7 @@ Images by generative AI (Grok, Bing), unless otherwise noted.
 
 Enjoy these poems. 
 
+- [Beards are the new Six-packs](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Beards-are-the-new-Six-packs.md)
 - [Beast, and the Beauty](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Beast-and-the-Beauty.md)
 - [Blueprint of an Engineer as a Young Man at Heart](https://github.com/mynampaty/listening-to-lines/tree/main/poems/Blueprint-of-an-Engineer-as-a-Young-Man-at-Heart.md)
 - [GitHub Poetry](https://github.com/mynampaty/listening-to-lines/tree/main/poems/GitHub-Poetry.md)
